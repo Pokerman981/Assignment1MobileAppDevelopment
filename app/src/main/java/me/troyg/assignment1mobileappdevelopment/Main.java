@@ -18,7 +18,7 @@ public class Main extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         toolbar.setTitle("Rawr xD UwU");
         toolbar.setTitleTextColor(Color.WHITE);
-        toolbar.setNavigationIcon(R.mipmap.icon);
+        //toolbar.setNavigationIcon(R.mipmap.icon);
 
         final Button button = findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener() {
