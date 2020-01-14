@@ -6,4 +6,7 @@
 
     <include layout="@layout/toolbar" android:id="@+id/toolbar"/>
     <include layout="@layout/button" android:id="@+id/button"/>
+    <include layout="@layout/imageview" android:id="@+id/imageview"
+             android:visibility="visible"/>
+
 </LinearLayout>

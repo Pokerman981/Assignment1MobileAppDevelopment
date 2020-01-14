@@ -2,6 +2,6 @@
 <Button xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/button" android:layout_margin="@dimen/button">
+        android:text="@string/buttonOff" android:layout_margin="@dimen/button">
 
 </Button>
